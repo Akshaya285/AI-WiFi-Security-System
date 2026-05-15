@@ -1,0 +1,8 @@
+MAC,Device,DataUsage,Time,Known
+A1:B2:C3,Phone,500,10,1
+D4:E5:F6,Laptop,700,14,1
+G7:H8:I9,Tablet,300,16,1
+X1:Y2:Z3,Unknown,2000,2,0
+P9:Q8:R7,Unknown,1500,1,0
+Z1:X2:C3,Unknown,2500,3,0
+A2:B3:C4,Phone,400,11,1

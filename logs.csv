@@ -1,0 +1,4 @@
+MAC,DataUsage,Time,Risk,Result
+FF:EE:DD:CC:BB:AA,1800,23,63,Unauthorized
+12:34:56:78:9A:BC,1800,23,63,Unauthorized
+12:34:56:78:9A:BC,200,2,37,Safe
